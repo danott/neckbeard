@@ -1,0 +1,22 @@
+{
+    "name": "neckbeard",
+    "displayName": "Neckbeard",
+    "description": "No syntax highlighting",
+    "version": "0.0.1",
+    "publisher": "danott",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Neckbeard",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Neckbeard-color-theme.json"
+            }
+        ]
+    }
+}
